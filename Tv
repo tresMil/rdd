@@ -1,0 +1,121 @@
+EXTINF: -1#EXTM3U
+
+EXTINF: -1 AZTECA UNO HD
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+
+EXTINF: -1 HISTORY
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+
+EXTINF: -1 AZTECA DIGITAL
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+EXTINF: -1 EXTREMA CINE
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+EXTINF: -1 MILENIO NOTICIAS
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+EXTINF: -1 OCHO TV
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+
+EXTINF: -1 EFECTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+
+EXTINF: -1 AZTECA MAS
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+EXTINF: -1 DISCOVERY INVS
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7620.m3u8
+
+EXTINF: -1 ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+
+
+EXTINF: -1 EFECTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+
+EXTINF: -1 TV MAS
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+
+EXTINF: -1 TV PUEBLA
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+
+EXTINF: -1 TELEFORMULA
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+EXTINF: -1 CANAL CONGRESOhttp://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+ 
+EXTINF: -1 CANAL 4
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+EXTINF: -1 CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+EXTINF: -1 TV RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+EXTINF: -1 PLANETA HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+EXTINF: -1 LATINOS UPS TV
+https://5955f4ce3f2b7.streamlock.net/8080/8080/playlist.m3u8
+
+EXTINF: -1 UNIVERSAL
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+EXTINF: -1 MAX PREMIER
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+EXTINF: -1 PREMIER TV
+http://apk2.futeboltvgratis.com:8081/live/8/chunks.m3u8
+
+
+EXTINF: -1 HBO 2
+http://linkbaru.com/iptv/008.m3u8
+
+
+EXTINF: -1 CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?
+
+EXTINF: -1 CINE FOX
+http://158.69.127.19:8000/live/Demo/prueba12345678/17632.ts
+
+EXTINF: -1 FOX ACCION
+http://158.69.127.19:8000/live/Demo/prueba12345678/17631.ts
+
+EXTINF: -1 FOX CINEMA
+http://158.69.127.19:8000/live/Demo/prueba12345678/17630.ts
+
+
+EXTINF: -1 FOX COMEDIA
+http://158.69.127.19:8000/live/Demo/prueba12345678/17629.ts
+
+EXTINF: -1 FOX FAMILY
+http://158.69.127.19:8000/live/Demo/prueba12345678/17628.ts
+
+EXTINF: -1 A&E
+http://158.69.127.19:8000/live/Demo/prueba12345678/17359.ts
+
+EXTINF: -1 AMC
+http://158.69.127.19:8000/live/Demo/prueba12345678/17358.ts
+
+EXTINF: -1 AXN
+http://158.69.127.19:8000/live/Demo/prueba12345678/17357.ts
+
+EXTINF: -1 CINE CANAL
+http://158.69.127.19:8000/live/Demo/prueba12345678/17447.ts
+
+EXTINF: -1 HBO
+http://158.69.127.19:8000/live/Demo/prueba12345678/17355.ts
+
+EXTINF: -1 HISTORY
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+
+EXTINF: -1 HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+
+EXTINF: -1 SPACE
+http://158.69.127.19:8000/live/Demo/prueba12345678/15767.ts
